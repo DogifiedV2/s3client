@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MCParadise/icon.png"
-hash = "0a79314f3ebbf377111d30906a4f474d18303b780b002ecd86ac224954cfc454"
-
-[[files]]
-file = "MCParadise/instance.cfg"
-hash = "03ef4be664bee84da012860056df9ef46f349cd4cf66dea4f2e52681f845e89b"
-
-[[files]]
-file = "MCParadise/minecraft/icon.png"
-hash = "0a79314f3ebbf377111d30906a4f474d18303b780b002ecd86ac224954cfc454"
-
-[[files]]
-file = "MCParadise/minecraft/unsup.ini"
-hash = "acaf309362456a3ae263c15a5b599ed7fb7d18e5411f52353681422ed9d5d1d0"
-
-[[files]]
-file = "MCParadise/mmc-pack.json"
-hash = "cbefca1f3469ee0484b279ba1bb62f6ff34d81508404db85c2c53463dbaa9019"
-
-[[files]]
-file = "MCParadise/patches/com.unascribed.unsup.json"
-hash = "b406d5dc9b5e07ee3c4a3cd3e6c82d8becf79dbc5fdc7e2522eb40da093cac4f"
-
-[[files]]
 file = "Season 3 Client.iml"
 hash = "ce1d00b72cc7e76b3e562bcc4381734e19324aa8122da7f83585bde6b94fabe7"
 
