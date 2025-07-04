@@ -430,7 +430,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6ecff689bfe2c07f7ab7d48b4ff814be522848716729bbb63dc0b1e69dfc1d6d"
+hash = "c1badcfaa196efcf218387001ac6f5b92d867a051463abdedb4a0b26ff20768e"
 
 [[files]]
 file = "config/blockcarpentry-common.toml"
