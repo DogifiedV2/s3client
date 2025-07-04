@@ -429,16 +429,8 @@ file = "config/auxiliaryblocks/waterlog.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
-file = "config/bcc-common.toml"
-hash = "c1badcfaa196efcf218387001ac6f5b92d867a051463abdedb4a0b26ff20768e"
-
-[[files]]
 file = "config/blockcarpentry-common.toml"
 hash = "73bbbff0b73066778fe269289891c5f0c19c1fb65fc2effe94e9d74835b6dc2b"
-
-[[files]]
-file = "config/bocchud.json"
-hash = "cfd24acff50b2467c24f8ee74f5b01ccb42d41f45781ccab587be2777ae12d38"
 
 [[files]]
 file = "config/botania-client.toml"
