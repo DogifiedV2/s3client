@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "Vault Hunters Third Edition"
+	modpackName = "Vaulters Paradise Season 3"
 	#The version of the modpack
-	modpackVersion = "3.18.3"
+	modpackVersion = "3.18"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
