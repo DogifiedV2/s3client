@@ -12849,6 +12849,10 @@ file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
 hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
 
 [[files]]
+file = "mods/AbilityScreenPanRegion-1.0.jar"
+hash = "195feb5b7c3fa2da228a6f27e708dd025179e50e24857fa95b707993486cfebb"
+
+[[files]]
 file = "mods/AdvancementPlaques-1.18.2-1.4.5.1.jar"
 hash = "d2d937229a6c21f08c9cd705d88c4ff7c369781f68851d3e7ef19646070fede9"
 
@@ -13199,6 +13203,10 @@ hash = "d122b39bbe9781ae41de4c84b8471014a312db57bc047f8817b0494d1a3826d5"
 [[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
+
+[[files]]
+file = "mods/XNetGases-1.18.2-3.0.1.jar"
+hash = "c2b65dcec024f777f69e436f59ec2f36d4fa9aa3e8c4dc601512480cc53d58cf"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.28.7_Forge_1.18.2.jar"
@@ -13662,7 +13670,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.0-SNAPSHOT.jar"
-hash = "2c220d240b26adc5848a7eb10ce0e1197dd7e515f3e72eea95635edbc0334907"
+hash = "f565bfb0214442197b3c3fbee6d7342a845443c3a6a5d82d174e980476480f2b"
 
 [[files]]
 file = "mods/shetiphiancore-1.18-3.10.12.jar"
@@ -13771,6 +13779,10 @@ hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
 [[files]]
 file = "mods/vault_hunters_sync_server_config-1.5.0.jar"
 hash = "f08d03c24f7a78b4f7f8793705eda3377a62489b98be5cca37c4447b991be41b"
+
+[[files]]
+file = "mods/vaultfilters-1.21.1.jar"
+hash = "1520f33e33c32ea759b9f46f452ddbc342337f298b72646f460ac5798b62f8b9"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.15.jar"
