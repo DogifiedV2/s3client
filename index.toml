@@ -409,6 +409,10 @@ file = "config/blockcarpentry-common.toml"
 hash = "73bbbff0b73066778fe269289891c5f0c19c1fb65fc2effe94e9d74835b6dc2b"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "c46a50a190107b3faf5f020c8305ec0ffe295e72407930e618ac64c99e30f78e"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
 
