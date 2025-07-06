@@ -13821,6 +13821,10 @@ file = "mods/xnet-1.18-4.0.7.jar"
 hash = "51f0aa9a76b639268e0d69c4358a98cc06ed71023b27ce759d7398cd8c6bc0bb"
 
 [[files]]
+file = "options.txt"
+hash = "79dd650bb5b9ff7fdba33c19edab98c7998466ba4e0e848321b7184a2f6dbd2e"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
 hash = "742fcf950d1e5b1b66203acee920804c0c4d25f28680b172bdb6505841168610"
 
