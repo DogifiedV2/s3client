@@ -194,8 +194,6 @@
           { "type": "constant", "id": "Mixtures" },
           { "type": "constant", "id": "Digital Waystones" },
           { "type": "constant", "id": "Brews" },
-          { "type": "constant", "id": "Vault Map" },
-          { "type": "constant", "id": "Map Markers" },
           { "type": "constant", "id": "Laser Bridges" }
         ],
         "ignoreArrow": true,
