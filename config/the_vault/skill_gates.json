@@ -19,7 +19,7 @@
         "dependsOn": [{ "type": "constant", "id": "Parry" }],
         "lockedBy": []
       },
-      
+
       "Fire_Resistance": {
         "dependsOn": [{ "type": "constant", "id": "Water_Breathing" }],
         "lockedBy": []
@@ -147,11 +147,10 @@
       },
       "Automatic Genius": {
         "dependsOn": [
-          { "type": "constant", "id": "Colossal Chests" },
-          { "type": "constant", "id": "Simple Storage Network" },
           { "type": "constant", "id": "Drawers" },
+          { "type": "constant", "id": "Functional Storage" },
+          { "type": "constant", "id": "Mega Cells" },
           { "type": "constant", "id": "Mekanism QIO" },
-          { "type": "constant", "id": "Refined Storage" },
           { "type": "constant", "id": "Applied Energistics" },
           { "type": "constant", "id": "Double Pouches" },
           { "type": "constant", "id": "Belts" },
@@ -171,6 +170,8 @@
           { "type": "constant", "id": "Dark Utilities" },
           { "type": "constant", "id": "Botania" },
           { "type": "constant", "id": "Mekanism" },
+          { "type": "constant", "id": "Toms Simple Storage" },
+          { "type": "constant", "id": "Sophisticated Storage" },
           { "type": "constant", "id": "Thermal Expansion" },
           { "type": "constant", "id": "Create" },
           { "type": "constant", "id": "Waystones" },
@@ -183,8 +184,7 @@
           { "type": "constant", "id": "Weirding Gadgets" },
           { "type": "constant", "id": "Mining Gadgets" },
           { "type": "constant", "id": "Digital Miner" },
-          { "type": "constant", "id": "Easy Villagers" },
-          { "type": "constant", "id": "Easy Piglins" },
+          { "type": "constant", "id": "Easy Traders" },
           { "type": "constant", "id": "Botany Pots" },
           { "type": "constant", "id": "SNAD" },
           { "type": "constant", "id": "Cagerium" },
@@ -192,8 +192,11 @@
           { "type": "constant", "id": "Phytogenic Insulator" },
           { "type": "constant", "id": "Potions" },
           { "type": "constant", "id": "Mixtures" },
+          { "type": "constant", "id": "Digital Waystones" },
           { "type": "constant", "id": "Brews" },
-          { "type": "constant", "id": "Entangled" }
+          { "type": "constant", "id": "Vault Map" },
+          { "type": "constant", "id": "Map Markers" },
+          { "type": "constant", "id": "Laser Bridges" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
@@ -201,9 +204,9 @@
       "Altar Automation": {
         "dependsOn": [
           { "type": "either", "gates": [
-              { "type": "constant", "id": "Refined Storage" },
-              { "type": "constant", "id": "Applied Energistics" }
-            ]
+            { "type": "constant", "id": "Refined Storage" },
+            { "type": "constant", "id": "Applied Energistics" }
+          ]
           }
         ],
         "ignoreArrow": true,
