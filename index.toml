@@ -15049,6 +15049,10 @@ file = "kubejs/assets/the_vault/textures/gui/quests/wolds.png"
 hash = "c12135f609171d74fb32acfeef26c1788a4a605ec4618af167cd082de9f5999c"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/research_groups/addons.png"
+hash = "20a8ccebf7bd91b203dd893756e8505196dda0d183ad2d0c97e5b33bdbf94773"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/advanced_peripherals.png"
 hash = "1393b798e0ebd70003b877f3e1f319be65ca45f656e3ba5d495f4bf8e7a5d9d4"
 
@@ -15057,12 +15061,20 @@ file = "kubejs/assets/the_vault/textures/gui/researches/appmek.png"
 hash = "c81ad25f8a0a07320cbddc1d7383536f88f780b61872e9227875f7b3181c3868"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/bonsai_pots.png"
+hash = "387a394be02230f0e4a63ad07944426610a02da882e912075e7aa17d25e61bc4"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/botanical_machinery.png"
 hash = "cd317169e5032e7a4cf74dcbcdbd9c0cb51187bd80245e1cd84bbadc8eee073b"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/computercraft.png"
 hash = "d1ef73591df6759bded9b5e5d28ee87f1553870e94d396c7afb3eebc6827179c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/create_crafts_and_additions.png"
+hash = "d48f94e6c9bb9bc0f9c02c3f4edfa97deba7917ff4a8bbb9daa3daec7491ec27"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/easy_blocks.png"
@@ -15075,6 +15087,10 @@ hash = "072d58210472b08ef15271134e8b8c55942cc6f414dee156986359412b4314b5"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/hostile_neural_networks.png"
 hash = "9be6ab6efdf9744206bace5eda6b85f60b0d27934b5195f0c9c6e3965e4739e4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/integrated_dynamics.png"
+hash = "24fd61b7b3bce5973cfce54f6c66ec676e0a5330546cbf8cbc53aefad85da2e9"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/laserio.png"
@@ -15095,6 +15111,10 @@ hash = "a1e81ad7f18bcff07c05550cbef39e51603c8985e5f97707f4629b726aa51e8a"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/sophisticated_storage.png"
 hash = "2b70f8a9878b61b807d650871ccdfcdf970898b35bb8cddab7fc399b206afbe4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/tiab.png"
+hash = "df7abd24cc27d1ccd6e52e3d3a1c62662fec841a37d2c9fc9c289c0dcd12fed7"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/vault_rings1.png"
@@ -16167,142 +16187,6 @@ hash = "6fda1ffb68babc5b5575c6e08c83453fd82a6bdd6169e0cfb1f008fa7b94ac3f"
 [[files]]
 file = "kubejs/data/minecraft/tags/blocks/mineable/pickaxe.json"
 hash = "89a8d2b5c68b245ce65eb4e516b188700813e5c4c79f4600f0c94ade8ff100c4"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/currency/vault_iridium.json"
-hash = "3ed369bc42990adad93d80b61de21139ed2d74473242bb190f2ab70c94c930b4"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/currency/vault_palladium.json"
-hash = "ca4a38b43939d2a622065f8b3b091f4c04f5cc59cd05b616386e929097974732"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/altar_recatalyzer.json"
-hash = "56080546dce14fafce9b7d6e0023862cfef394ba85a31171c35ee587890d26a5"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/arcane_essence.json"
-hash = "868e4883883059175e76cc13d2e227d9d7fd6b68df7630be872a737c08e0a936"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/arcane_shard.json"
-hash = "9be5ff1a4384a1ddbb41718710d2120b9166d94a2ece6f8a496bd4283dc913f0"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/augment_box.json"
-hash = "4299775d5aec23c7e392532c5c993cbbd6e0a32431627661408d7844fd09d375"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/capstone_all_seeing_eye.json"
-hash = "c35e02ae9de9b2d7ec6f44d14041475271395ae6ec6901e4184c4fcda8c92d7d"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/chiseling_focus.json"
-hash = "e59b9e5b23f27d37a05fef49fcb2a7138cbd6d9fd4ba21ce0675dfaffd053a2a"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/chromatic_iron_angel_ring.json"
-hash = "ec773ce4f5f11ea2f065d45ddcca284e71e9b36f50b47e5ebbc330bac2807377"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_reinforcement.json"
-hash = "e8192d80c4daa39bf0d95a7f0d712c99405f50b4748b15a38067fb10012f7bb9"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_doomsayer.json"
-hash = "e2f8fba80db7a84662a5e44baefcdf3a90b3b386502549682ae42be74d2024b5"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_enchanter.json"
-hash = "3b997419fed91c70f31983959b1ffb3f8e51fbd572b25961b9ccb51d18900d9c"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_spirits.json"
-hash = "101414a3de64a8a727b996de6929479d203f96e8b62373a536f79ab4f0da0295"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_titan.json"
-hash = "f527a7640bae1a063fc12c4a4ded0d1906e0cdf878351770d56e97929c5ad9bb"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_unhinged.json"
-hash = "f880c71a1e37098eaef19b735d035e83f8b3f0693c13058a9721b1dcdc7326e1"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/echo_pog_1.json"
-hash = "a9c2f9c33a6291688f82333a3757605e0d71b927fa5e7977eb79361dee675621"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/extrordinary_pog_prism.json"
-hash = "20868723bf4ae1ae342998318cb86d5a76ea0636575e8b413d7e3a7f6a55e5db"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/frenzy_capstone.json"
-hash = "b2e73de92833586ec04cf238221774e74fe03b594925d0778b51869aa14bfa85"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/gem_pog_1.json"
-hash = "90a5f221ab1f1758a2962b98b91949e7079ad26a6a86c66e49d31ae199193158"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/inscription_box.json"
-hash = "e9cd1a2c8895ca7f0bf903c29268efc455b28fc18dd2d1f48d5a4c23811c22f4"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/kill_wold.json"
-hash = "6e6ab53b1a2d02149560d4721820551d5891a4dd437052d5ac4d4076bd030c83"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/mystic_pear.json"
-hash = "5ca17616b37d46f470f06817b693d95ee226ac157c7c3067352dc4728cf0098f"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/omega_box.json"
-hash = "547d61e0fec9ec674c948b64baae3250b3043ce842bc31d446c430912d29e85c"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/omega_pog_1.json"
-hash = "586032b4dac2a4f641cb9d713b1824d2816918df5464be63ff8eebfe0d685cf3"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/pog_prism.json"
-hash = "9d2809066cfc94205c7dd9603d0b51d60a0aa5624561844a6e87b7685ea1b801"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/prismatic_angel_ring.json"
-hash = "351d9826d42d343267445cc25c3b2da7d66fd61f627d8e149af02458faf9e26a"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/resonating_reinforcement.json"
-hash = "42bb2eb06b091314a7b9978232cef717c2680ef405fcb65ea53c0b47fc0bf42b"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/stylish_focus.json"
-hash = "28647f7af5b671b24d1583228e9d6deda9fb1d1a2d2c0ed0da716fb0d7a6d335"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/vault_deco_scroll.json"
-hash = "28cee713582e7b0141e919d53ee5b46e638ed7176065919b195552b937cde3a3"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/vault_rock_candy.json"
-hash = "bfe562fe4ab68775771b142016d57f41700bff1e2ff9d5bf90ea6e10a5337a02"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/vault_salvager.json"
-hash = "809a67e81d0b31b8b375dfc45a076e9e6148fbeb3451bdb9fb6046210559c825"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/wold_star.json"
-hash = "25668889040e03c92ea96162cf9d2b2cef578bce4f270ee4cd621569d5172697"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/wold_star_chunk.json"
-hash = "43a458a6b4d0a1478add82170f643c50100cab4e8f0e062daeec7b9c7acecb30"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/time_in_a_bottle/time_in_a_bottle.json"
-hash = "6c28a37ceb02cd127ad5eec9af88341001109e388cd6cb00a0097c2c693017f4"
 
 [[files]]
 file = "kubejs/exported/tags/activity.txt"
@@ -17395,6 +17279,10 @@ hash = "a3fdde9433d75ac1f5ae72d3f5b74d2dfb3a59d8b28bad18a5c526cb32f814d0"
 [[files]]
 file = "mods/laserbridges-1.18.2-3-forge.jar"
 hash = "8cfd673b1317a5e0a14b5dc5e70be17bb2466eeebc41a6e6fd1ee143594cb8b3"
+
+[[files]]
+file = "mods/laserio-1.4.5.jar"
+hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 
 [[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
