@@ -16657,10 +16657,6 @@ file = "mods/BotanyPots-Forge-1.18.2-8.0.23.jar"
 hash = "582c639317e7a4bd61dfa3e9467f597f3a3998ebe8b6e55b2e48aba925786bb7"
 
 [[files]]
-file = "mods/BotanyPotsTiers-Forge-1.18.2-2.2.0.jar"
-hash = "a9db5be6f21892474ce698a2958104bca32a2432e427d194bfb51fe831786114"
-
-[[files]]
 file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
 hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 
