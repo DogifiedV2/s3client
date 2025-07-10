@@ -13090,7 +13090,7 @@ hash = "91f92f517fe26ed10a93314c39fdd70211ffce86e41409979396bda8b1f7bc81"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "4b231a6782e824b0f88764a2f5038fd75be057e1289e3ac4abbb428831e346e0"
+hash = "95c6c7d22e869b994e13501135a8d67ec5e6fa9bf4f88e1b790344daa536af49"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -17430,7 +17430,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.0-SNAPSHOT.jar"
-hash = "cac8d3f5afaccf56baf8c86f104bb7abf4435d4a67c52392ca8ea6bf2fac3504"
+hash = "77d0e538b04a40b3a1bd452ee9fb7e074ff5fbed759dac25685022fa0883348f"
 
 [[files]]
 file = "mods/shetiphiancore-1.18-3.10.12.jar"
@@ -17490,7 +17490,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.18.3.4607.jar"
-hash = "3a4706129e03f7055bd568b78876a1db80594b7592d3a147a466516c6c0113a8"
+hash = "4f940934cd62603af1a51052062e3d04053c8f3744a97ee1fcc7b877515335cb"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -18115,3 +18115,7 @@ hash = "6a68d124f68464bc845130c6d85362432e6ac6101829177de5825b235edf653d"
 [[files]]
 file = "scripts/raw_smelting.zs"
 hash = "4913282e31cfb403f139b011926b82d35e0bc640232fd9f5ae5e8c1db3a2f8f1"
+
+[[files]]
+file = "servers.dat"
+hash = "5872dc8de244b6ff8c1d1863dba31264632d69d10fe07c0c721841e1f3cfcec6"
