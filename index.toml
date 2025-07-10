@@ -13134,7 +13134,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "18b42a95fa65043c83a233f0135879dd2d10764c77865d3b3955a1fa13f2d29d"
+hash = "83b0599fe896522c878255fafb306f8b475b4ecd55cff289f6e56690f0e23b0e"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
