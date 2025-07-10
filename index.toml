@@ -15197,40 +15197,12 @@ file = "kubejs/assets/the_vault/textures/item/catalyst/prosperous_catalyst.png"
 hash = "ee13c0497974238584c68b563646b33fb955561be89b51bbaaadf4697dab32b4"
 
 [[files]]
-file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png"
-hash = "8a484230ddbdd8a3d760ddbe9d3fdb733b481bb8094d76639cde4b53a2d2a87c"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png.mcmeta"
-hash = "ccae14555a2f227dbecba32c68580a73c9d151a99446445c94de41278671c7cb"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png"
-hash = "e1752fa4e5157a952eaf6de7b9b28250b03a7c3e3262107bf1253b2d6364a2ff"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png.mcmeta"
-hash = "59baece448c0c48bbbdf25dd1fcf5f985e4053e49d2beb8d8eb8e9813c0b454d"
-
-[[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/sword/skallified_sword.png"
 hash = "d3415018f2ebf5bca560046f4ebcd5acabfa535ba9e9da7217b99c85430383f0"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/gear/wand/iskallium.png"
 hash = "9c3b37298f116b5e7a910be78118500e9df1edef1e035ae6be86593675a5c879"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png"
-hash = "fc027823be88fc615d753cb576033826e0085576c95f782d296260ad028503d0"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png.mcmeta"
-hash = "a56fca95e9b14352649794acbe4f5a49e80f94992bad5a94ab8a4bfba5f8e420"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/item/key_iskallium.png"
-hash = "77178af77a2e8c71c3c917ed6b794df4da3f2ba7c78827a79fd4e4b222303428"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/magnets/bloody_magnet.png"
