@@ -47,6 +47,14 @@
             "color": "$text"
           },
           {
+            "text": "\n\n/filter ",
+            "color": "$manaCost"
+          },
+          {
+            "text": "will let you toggle chat messages to avoid spam",
+            "color": "$text"
+          },
+          {
             "text": "\n\n/party invite playername ",
             "color": "$manaCost"
           },
