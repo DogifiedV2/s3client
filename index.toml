@@ -18090,7 +18090,7 @@ hash = "4913282e31cfb403f139b011926b82d35e0bc640232fd9f5ae5e8c1db3a2f8f1"
 
 [[files]]
 file = "scripts/vanillatweaks_scripts.zs"
-hash = "411761f45715f2621628629994813762b9ff78c445aabc99636ca24bdc6b0872"
+hash = "55bdc7a7f93d2c23bcfa3b1114f4653a9ebbc228c771933df036f2dbad07048b"
 
 [[files]]
 file = "servers.dat"

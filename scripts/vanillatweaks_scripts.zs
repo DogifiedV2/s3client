@@ -100,35 +100,6 @@ craftingTable.addShaped("craftable_name_tags", <item:minecraft:name_tag>, [
     [<item:minecraft:air>, <item:minecraft:blaze_rod>, <item:minecraft:air>],
     [<item:minecraft:blackstone>, <item:minecraft:blackstone>, <item:minecraft:blackstone>]
 ]); */
-//blackstone dispenser
-craftingTable.addShaped("blackstone_dispenser", <item:minecraft:dispenser>, [
-    [<tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:bow>, <tag:items:chipped:blackstone>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:redstone>, <tag:items:chipped:blackstone>]
-]);
-//blackstone dropper
-craftingTable.addShaped("blackstone_dropper", <item:minecraft:dropper>, [
-    [<tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:air>, <tag:items:chipped:blackstone>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:redstone>, <tag:items:chipped:blackstone>]
-]);
-//blackstone lever
-craftingTable.addShaped("blackstone_lever", <item:minecraft:lever>, [
-    [<item:minecraft:stick>],
-    [<tag:items:chipped:blackstone>],
-]);
-//blackstone observer
-craftingTable.addShaped("blackstone_observer", <item:minecraft:observer>, [
-    [<tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>],
-    [<item:minecraft:redstone>, <item:minecraft:redstone>, <item:minecraft:quartz>],
-    [<tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>, <tag:items:chipped:blackstone>]
-]);
-//blackstone piston
-craftingTable.addShaped("blackstone_piston", <item:minecraft:piston>, [
-    [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:iron_ingot>, <tag:items:chipped:blackstone>],
-    [<tag:items:chipped:blackstone>, <item:minecraft:redstone>, <tag:items:chipped:blackstone>]
-]);
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //Coral --> Coral Blocks
