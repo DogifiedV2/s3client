@@ -130,6 +130,13 @@
     {
       "stack": {
         "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"echo\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Echo\",\"color\":\"#901fdb\"}]}\u0027}}"
+      },
+      "cost": 2
+    },
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
         "nbt": "{Affix:\"PREFIX\",TitleId:\"epic\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Epic\",\"color\":\"#AAAAAA\"}]}\u0027}}"
       },
       "cost": 2

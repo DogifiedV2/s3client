@@ -143,6 +143,19 @@
         },
         "cost": 1
       },
+      "echo": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Echo ",
+            "color": "#901fdb"
+          },
+          "CHAT": {
+            "text": "Echo ",
+            "color": "#901fdb"
+          }
+        },
+        "cost": 1
+      },
       "epic": {
         "display": {
           "TAB_LIST": {
